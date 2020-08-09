@@ -6,7 +6,7 @@ namespace Algebra
     public struct Matrix
     {
         /// <summary>
-        /// Represent the <see cref="Matrix"/> itslef
+        /// Represents the <see cref="Matrix"/> itslef
         /// </summary>
         public readonly float[,] mat { get; }
 
